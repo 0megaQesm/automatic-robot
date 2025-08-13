@@ -39,7 +39,8 @@
       "minecraft:bamboo_jungle": "2025-08-13 04:58:59 +0000",
       "minecraft:windswept_savanna": "2025-08-13 05:15:53 +0000",
       "minecraft:plains": "2025-08-13 04:22:00 +0000",
-      "minecraft:warm_ocean": "2025-08-13 05:03:44 +0000"
+      "minecraft:warm_ocean": "2025-08-13 05:03:44 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-13 23:05:53 +0000"
     },
     "done": false
   },
@@ -940,6 +941,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-08-13 04:32:01 +0000",
+      "melon": "2025-08-13 23:13:59 +0000",
       "beetroot": "2025-08-13 04:47:42 +0000"
     },
     "done": false
@@ -3041,7 +3043,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-13 05:12:31 +0000",
-      "minecraft:spider": "2025-08-13 05:02:43 +0000"
+      "minecraft:spider": "2025-08-13 05:02:43 +0000",
+      "minecraft:zombie": "2025-08-13 23:12:10 +0000"
     },
     "done": false
   },
@@ -3285,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-13 23:00:05 +0000"
@@ -3300,6 +3309,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-08-13 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
     },
     "done": true
   },
@@ -3360,6 +3375,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-13 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-13 23:13:55 +0000"
     },
     "done": true
   },
@@ -3426,6 +3447,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-13 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-13 23:13:55 +0000"
     },
     "done": true
   },
