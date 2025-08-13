@@ -19,28 +19,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna_plateau": "2025-08-13 04:57:34 +0000",
-      "minecraft:beach": "2025-08-13 04:26:08 +0000",
-      "minecraft:dark_forest": "2025-08-13 04:56:34 +0000",
       "minecraft:forest": "2025-08-13 04:36:06 +0000",
-      "minecraft:mangrove_swamp": "2025-08-13 05:15:56 +0000",
-      "minecraft:sparse_jungle": "2025-08-13 04:53:22 +0000",
       "minecraft:deep_ocean": "2025-08-13 04:57:09 +0000",
-      "minecraft:river": "2025-08-13 04:35:58 +0000",
-      "minecraft:lukewarm_ocean": "2025-08-13 04:31:55 +0000",
-      "minecraft:dripstone_caves": "2025-08-13 04:58:10 +0000",
       "minecraft:desert": "2025-08-13 04:59:25 +0000",
       "minecraft:ocean": "2025-08-13 04:57:05 +0000",
       "minecraft:jungle": "2025-08-13 04:54:12 +0000",
       "minecraft:sunflower_plains": "2025-08-13 04:43:41 +0000",
       "minecraft:birch_forest": "2025-08-13 04:54:24 +0000",
       "minecraft:windswept_hills": "2025-08-13 04:54:36 +0000",
-      "minecraft:savanna": "2025-08-13 04:27:09 +0000",
       "minecraft:bamboo_jungle": "2025-08-13 04:58:59 +0000",
       "minecraft:windswept_savanna": "2025-08-13 05:15:53 +0000",
-      "minecraft:plains": "2025-08-13 04:22:00 +0000",
       "minecraft:warm_ocean": "2025-08-13 05:03:44 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-08-13 23:05:53 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-08-13 23:05:53 +0000",
+      "minecraft:badlands": "2025-08-13 23:23:06 +0000",
+      "minecraft:flower_forest": "2025-08-13 23:48:16 +0000",
+      "minecraft:savanna_plateau": "2025-08-13 04:57:34 +0000",
+      "minecraft:beach": "2025-08-13 04:26:08 +0000",
+      "minecraft:dark_forest": "2025-08-13 04:56:34 +0000",
+      "minecraft:stony_peaks": "2025-08-13 23:24:13 +0000",
+      "minecraft:mangrove_swamp": "2025-08-13 05:15:56 +0000",
+      "minecraft:sparse_jungle": "2025-08-13 04:53:22 +0000",
+      "minecraft:river": "2025-08-13 04:35:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-13 04:31:55 +0000",
+      "minecraft:stony_shore": "2025-08-13 23:22:57 +0000",
+      "minecraft:dripstone_caves": "2025-08-13 04:58:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-13 23:46:42 +0000",
+      "minecraft:savanna": "2025-08-13 04:27:09 +0000",
+      "minecraft:plains": "2025-08-13 04:22:00 +0000"
     },
     "done": false
   },
@@ -3174,9 +3179,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "mowziesmobs:recipes/combat/blowgun": {
     "criteria": {
-      "has_kelp": "2025-08-13 23:01:16 +0000"
+      "has_bamboo": "2025-08-13 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-13 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-13 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-13 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-13 22:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 22:54:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-13 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-13 22:54:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-13 22:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-08-13 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-13 22:55:01 +0000"
     },
     "done": true
   },
@@ -3192,51 +3257,15 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/azalea_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-13 22:59:46 +0000"
     },
     "done": true
   },
-  "mowziesmobs:recipes/combat/blowgun": {
-    "criteria": {
-      "has_bamboo": "2025-08-13 22:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-08-13 23:01:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-08-13 22:54:29 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-08-13 22:59:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-08-13 22:55:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
     },
     "done": true
   },
@@ -3249,18 +3278,6 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-08-13 22:59:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
     },
     "done": true
   },
@@ -3282,24 +3299,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-08-13 22:59:46 +0000"
@@ -3312,39 +3311,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_minecraft:birch_leaves": "2025-08-13 23:01:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-13 22:59:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-13 23:00:05 +0000"
     },
     "done": true
   },
@@ -3378,21 +3347,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-08-13 23:13:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-08-13 22:59:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-08-13 22:54:06 +0000"
     },
     "done": true
   },
@@ -3402,9 +3359,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
-      "has_kelp": "2025-08-13 23:01:16 +0000"
+      "has_minecraft:dark_oak_planks": "2025-08-13 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-13 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-13 23:00:05 +0000"
     },
     "done": true
   },
@@ -3432,21 +3449,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_log": "2025-08-13 22:54:06 +0000"
+      "has_kelp": "2025-08-13 23:01:16 +0000"
     },
     "done": true
   },
-  "lootr:1barrel": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "opened_barrel": "2025-08-13 22:54:16 +0000"
+      "has_kelp": "2025-08-13 23:01:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_smithing_trim_template": "2025-08-13 22:55:01 +0000"
+      "has_kelp": "2025-08-13 23:01:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_minecraft:birch_leaves": "2025-08-13 23:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-08-13 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-13 23:13:55 +0000"
     },
     "done": true
   },
@@ -3456,39 +3497,69 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "lootr:50loot": {
     "criteria": {
-      "has_baked_potato": "2025-08-13 22:54:29 +0000"
+      "opened_50": "2025-08-13 23:18:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_minecraft:dark_oak_planks": "2025-08-13 22:59:46 +0000"
+      "has_rose_bush": "2025-08-13 23:47:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
-      "has_bamboo": "2025-08-13 22:48:47 +0000"
+      "has_rose_bush": "2025-08-13 23:47:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
-      "has_bamboo": "2025-08-13 22:48:47 +0000"
+      "beef_patty": "2025-08-13 23:50:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
-      "has_planks": "2025-08-13 22:59:46 +0000"
+      "beef_patty": "2025-08-13 23:50:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
-      "has_bamboo": "2025-08-13 22:48:47 +0000"
+      "beef_patty": "2025-08-13 23:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-13 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-13 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-13 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-13 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-08-13 23:51:27 +0000"
     },
     "done": true
   },
