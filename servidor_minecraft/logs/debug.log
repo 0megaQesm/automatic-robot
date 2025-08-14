@@ -7547,3 +7547,20 @@
 [13Aug2025 23:58:15.241] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [13Aug2025 23:58:27.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
 [13Aug2025 23:58:31.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[13Aug2025 23:59:10.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Stone Age]
+[14Aug2025 00:00:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 00:00:52.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:00:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 00:00:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:02:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Blue Bed] to OmegaQesm_]
+[14Aug2025 00:02:18.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:03:15.234] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:03:19.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:05:59.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Iron Backpack] to OmegaQesm_]
+[14Aug2025 00:06:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:06:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:07:39.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo lost connection: Disconnected
+[14Aug2025 00:07:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo left the game
+[14Aug2025 00:08:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:08:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:08:15.215] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
