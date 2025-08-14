@@ -7643,3 +7643,12 @@
 [14Aug2025 00:53:23.229] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [14Aug2025 00:53:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has reached the goal [When the Stew is Sus]
 [14Aug2025 00:58:23.226] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:01:12.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/37552, l='ServerLevel[world]', x=-5922.85, y=71.00, z=-2121.65] died, message: 'Nitwit was slain by Zombie'
+[14Aug2025 01:01:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 01:02:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to lafizamovie]
+[14Aug2025 01:03:23.229] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:04:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Dragonfly]
+[14Aug2025 01:08:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [We Need to Go Deeper]
+[14Aug2025 01:08:21.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [A Terrible Fortress]
+[14Aug2025 01:08:23.233] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:09:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
