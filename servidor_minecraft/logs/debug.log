@@ -7870,3 +7870,25 @@
 [14Aug2025 02:45:09.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6907, y=74, z=-1083} but found not block entity block Block{minecraft:spruce_fence}[west=true,south=false,north=false,waterlogged=false,east=false] at location
 [14Aug2025 02:45:09.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[west=true,south=false,north=false,waterlogged=false,east=false] but failed at location BlockPos{x=-6907, y=74, z=-1083}
 [14Aug2025 02:48:37.246] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 02:51:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has completed the challenge [Rude Awakening]
+[14Aug2025 02:52:32.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 02:52:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to lafizamovie]
+[14Aug2025 02:53:37.241] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 02:53:46.690] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 02:53:46.740] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 68 radius, 1 samples
+[14Aug2025 02:53:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 02:54:01.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to lafizamovie]
+[14Aug2025 02:54:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> ya
+[14Aug2025 02:54:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 02:55:12.674] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 02:55:12.690] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 71 radius, 1 samples
+[14Aug2025 02:55:17.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to lafizamovie]
+[14Aug2025 02:55:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 02:57:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[14Aug2025 02:57:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Take Aim]
+[14Aug2025 02:57:58.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 02:57:59.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 02:58:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 02:58:24.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 02:58:37.236] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 02:59:46.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo was slain by Ferrous Wroughtnaut

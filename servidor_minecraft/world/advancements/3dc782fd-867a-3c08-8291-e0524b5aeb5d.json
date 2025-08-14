@@ -22,10 +22,13 @@
       "minecraft:river": "2025-08-13 04:35:43 +0000",
       "minecraft:lukewarm_ocean": "2025-08-13 04:32:18 +0000",
       "minecraft:stony_shore": "2025-08-13 23:25:08 +0000",
+      "minecraft:snowy_plains": "2025-08-14 02:48:46 +0000",
       "minecraft:lush_caves": "2025-08-14 01:40:32 +0000",
+      "minecraft:dripstone_caves": "2025-08-14 02:57:42 +0000",
       "minecraft:snowy_taiga": "2025-08-14 02:48:35 +0000",
       "minecraft:frozen_peaks": "2025-08-14 01:29:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-13 23:46:43 +0000",
+      "minecraft:frozen_river": "2025-08-14 02:48:44 +0000",
       "minecraft:jungle": "2025-08-14 01:33:13 +0000",
       "minecraft:sunflower_plains": "2025-08-13 04:43:42 +0000",
       "minecraft:cherry_grove": "2025-08-14 01:29:01 +0000",
@@ -4023,6 +4026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-14 02:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-14 02:44:46 +0000"
@@ -4125,6 +4134,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-08-14 02:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-14 02:44:46 +0000"
@@ -4224,6 +4239,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-14 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-14 02:57:16 +0000"
     },
     "done": true
   },
