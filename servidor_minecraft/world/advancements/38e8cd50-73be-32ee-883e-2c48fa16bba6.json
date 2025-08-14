@@ -762,6 +762,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-13 23:46:13 +0000"
@@ -822,9 +828,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -1194,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
@@ -1215,6 +1239,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -1365,6 +1395,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-13 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -1627,6 +1663,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-13 23:46:13 +0000"
@@ -1735,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-14 01:09:55 +0000"
@@ -1816,6 +1864,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-13 23:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -1903,6 +1957,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-13 23:46:13 +0000"
@@ -1975,6 +2035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-14 00:33:16 +0000"
@@ -1996,6 +2062,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:46:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -2161,6 +2233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
@@ -2206,6 +2284,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:46:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -2491,15 +2575,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:46:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-13 23:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -2581,6 +2683,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
@@ -2626,6 +2734,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },
@@ -2866,7 +2980,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-14 00:15:25 +0000",
-      "bread": "2025-08-13 23:35:10 +0000"
+      "bread": "2025-08-13 23:35:10 +0000",
+      "potato": "2025-08-14 01:19:35 +0000"
     },
     "done": false
   },
@@ -2942,6 +3057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 01:43:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-13 23:46:13 +0000"
@@ -2957,6 +3078,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-13 23:46:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2025-08-14 01:43:53 +0000"
     },
     "done": true
   },

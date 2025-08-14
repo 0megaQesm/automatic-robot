@@ -7664,3 +7664,74 @@
 [14Aug2025 01:15:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> aw
 [14Aug2025 01:16:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
 [14Aug2025 01:18:23.240] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:21:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 01:23:20.029] [Server thread/DEBUG] [com.bobmowzie.mowziesmobs.MMCommon/]: Monastery at BlockPos{x=-4584, y=0, z=-1368}
+[14Aug2025 01:23:20.059] [Worker-Main-2/DEBUG] [com.bobmowzie.mowziesmobs.MMCommon/]: Monastery at BlockPos{x=-4584, y=0, z=-1368}
+[14Aug2025 01:23:26.100] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:monastery took 6423 ms
+[14Aug2025 01:23:26.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
+[14Aug2025 01:23:26.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved too quickly! 2.656984913638553,1.1212968405392019,9.734465964587798
+[14Aug2025 01:23:29.625] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:24:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Explorer's Compass] to OmegaQesm_]
+[14Aug2025 01:24:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 01:24:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> que es
+[14Aug2025 01:24:48.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> la mea vola
+[14Aug2025 01:25:04.846] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 01:25:04.891] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 1584 radius, 30 samples
+[14Aug2025 01:25:25.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> duerman pe causa
+[14Aug2025 01:28:29.632] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:30:34.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/37652, l='ServerLevel[world]', x=-5886.61, y=65.00, z=-2146.30] died, message: 'Nitwit was slain by Zombie'
+[14Aug2025 01:32:39.450] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:33:29.638] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:33:32.393] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[14Aug2025 01:33:32.394] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:32.395] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:32.395] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:32.396] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:32.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:32.426] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:33:45.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:45.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:45.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:45.058] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:45.134] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:45.134] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:45.224] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[14Aug2025 01:33:45.225] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:33:45.225] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:33:45.225] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[14Aug2025 01:33:45.225] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[14Aug2025 01:33:49.060] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:33:54.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:34:12.550] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:34:12.617] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[14Aug2025 01:34:39.711] [Worker-Main-5/DEBUG] [com.bobmowzie.mowziesmobs.MMCommon/]: Monastery at BlockPos{x=-4632, y=0, z=-1048}
+[14Aug2025 01:37:08.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[14Aug2025 01:37:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Black Bed] to OmegaQesm_]
+[14Aug2025 01:37:58.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Applied enchantment Sweeping Edge III to OmegaQesm_'s item]
+[14Aug2025 01:38:29.639] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:38:43.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Applied enchantment Sharpness V to OmegaQesm_'s item]
+[14Aug2025 01:39:02.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:39:06.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> mano
+[14Aug2025 01:39:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Cover Me with Diamonds]
+[14Aug2025 01:39:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> chocaron afuera de miu casa ajjsahjdajdna
+[14Aug2025 01:39:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lafizamovie> HABLA AWEONAO
+[14Aug2025 01:39:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> XD
+[14Aug2025 01:39:20.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:39:25.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> TENI luz?
+[14Aug2025 01:39:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:39:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Applied enchantment Sharpness V to OmegaQesm_'s item]
+[14Aug2025 01:39:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:40:48.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Tongbi, the Sculptor
+[14Aug2025 01:41:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:41:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:42:12.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Tongbi, the Sculptor
+[14Aug2025 01:43:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Tongbi, the Sculptor
+[14Aug2025 01:43:29.634] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:45:13.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4559, y=224, z=-1358} BlockPos{x=-4553, y=227, z=-1360}
+[14Aug2025 01:45:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Called Your Bluff]
+[14Aug2025 01:46:43.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was doomed to fall by Tongbi, the Sculptor
+[14Aug2025 01:47:19.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Half-Century]
+[14Aug2025 01:48:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 01:48:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:48:29.645] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
