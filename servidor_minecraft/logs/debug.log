@@ -7953,3 +7953,105 @@
 [14Aug2025 03:28:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Ol' Betsy]
 [14Aug2025 03:30:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo fell from a high place
 [14Aug2025 03:31:09.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:32:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to -9001.500000, 65.000000, 1649.500000]
+[14Aug2025 03:32:45.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14Aug2025 03:32:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:33:41.436] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:34:01.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:34:14.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[14Aug2025 03:35:32.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:35:33.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:35:44.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:35:45.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:35:46.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:36:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:36:11.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:37:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:37:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:37:09.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:38:35.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:38:41.440] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:39:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:39:57.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 10000 experience points to 3 players]
+[14Aug2025 03:40:08.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has completed the challenge [Centennial]
+[14Aug2025 03:41:14.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Local Brewery]
+[14Aug2025 03:42:27.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ fell from a high place
+[14Aug2025 03:43:41.431] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:44:25.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo was kicked for floating too long!
+[14Aug2025 03:44:25.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo lost connection: Flying is not enabled on this server
+[14Aug2025 03:44:25.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo left the game
+[14Aug2025 03:44:32.120] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3afb55ed into net.minecraft.network.Connection@4c487f10
+[14Aug2025 03:44:33.106] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[14Aug2025 03:44:34.160] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[14Aug2025 03:44:34.160] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[14Aug2025 03:44:34.770] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1a521707 into net.minecraft.network.Connection@4c487f10
+[14Aug2025 03:44:34.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DMkingo[/127.246.161.60:34827] logged in with entity id 144066 at (-5859.170034712604, 97.27588138972615, -2167.494947901682)
+[14Aug2025 03:44:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo joined the game
+[14Aug2025 03:46:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:46:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:46:04.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:46:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:46:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:17.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:30.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:32.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:46:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Villager]
+[14Aug2025 03:47:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:48:38.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:48:41.429] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:49:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Wingin' It]
+[14Aug2025 03:50:20.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144663, l='ServerLevel[world]', x=-5908.22, y=63.00, z=-2253.71] died, message: 'Villager was slain by Zombie'
+[14Aug2025 03:50:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ fell from a high place
+[14Aug2025 03:51:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 03:51:57.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved wrongly!
+[14Aug2025 03:52:01.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ moved wrongly!
+[14Aug2025 03:52:01.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ was kicked for floating too long!
+[14Aug2025 03:52:02.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Flying is not enabled on this server
+[14Aug2025 03:52:02.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[14Aug2025 03:52:07.348] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@17332596 into net.minecraft.network.Connection@143068d2
+[14Aug2025 03:52:08.112] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[14Aug2025 03:52:08.871] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[14Aug2025 03:52:08.871] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[14Aug2025 03:52:09.359] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1d6c57aa into net.minecraft.network.Connection@143068d2
+[14Aug2025 03:52:09.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.119.90.33:48595] logged in with entity id 147008 at (-5898.747220522433, 41.36274331285453, -2284.300000011921)
+[14Aug2025 03:52:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[14Aug2025 03:53:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:53:41.425] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:53:56.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:53:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:54:03.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:56:05.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/144646, l='ServerLevel[world]', x=-5896.51, y=65.00, z=-2166.26] died, message: 'Leatherworker was slain by Zombie'
+[14Aug2025 03:56:42.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:58:41.434] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 04:01:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:01:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:02:03.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:02:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:02:46.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:02:47.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:02:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:03:12.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:03:41.428] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 04:03:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:04:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:05:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:06:09.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 04:06:15.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 04:07:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Crimson Storage Jar] to OmegaQesm_]
+[14Aug2025 04:08:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Wind Vane] to OmegaQesm_]
+[14Aug2025 04:08:41.430] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 04:09:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 04:09:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 04:10:31.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Soap] to OmegaQesm_]
+[14Aug2025 04:10:34.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Bubble Blower] to OmegaQesm_]
+[14Aug2025 04:11:39.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Cannon] to OmegaQesm_]
