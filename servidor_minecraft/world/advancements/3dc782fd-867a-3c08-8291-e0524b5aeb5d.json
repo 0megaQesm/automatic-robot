@@ -2603,6 +2603,7 @@
     "criteria": {
       "bread": "2025-08-13 04:45:45 +0000",
       "potato": "2025-08-13 04:42:52 +0000",
+      "mushroom_stew": "2025-08-14 02:03:35 +0000",
       "porkchop": "2025-08-13 04:37:17 +0000"
     },
     "done": false
@@ -3939,6 +3940,36 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-08-14 01:47:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_failure": {
+    "criteria": {
+      "sculptor_failure": "2025-08-14 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-14 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-14 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-14 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_challenge": {
+    "criteria": {
+      "sculptor_challenge": "2025-08-14 02:14:05 +0000"
     },
     "done": true
   },

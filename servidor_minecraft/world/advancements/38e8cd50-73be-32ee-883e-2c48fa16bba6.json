@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-14 02:01:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-08-13 23:27:26 +0000"
@@ -1933,6 +1939,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-08-14 02:01:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-08-14 01:07:41 +0000"
@@ -2410,6 +2422,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-13 23:29:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-14 02:01:33 +0000"
     },
     "done": true
   },
@@ -2977,10 +2995,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-14 02:01:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-14 00:15:25 +0000",
       "bread": "2025-08-13 23:35:10 +0000",
+      "suspicious_stew": "2025-08-14 02:01:33 +0000",
       "potato": "2025-08-14 01:19:35 +0000"
     },
     "done": false
