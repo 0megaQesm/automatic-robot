@@ -8130,3 +8130,23 @@
 [14Aug2025 04:32:24.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> mañana jugamo
 [14Aug2025 04:32:38.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
 [14Aug2025 04:32:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[14Aug2025 04:32:53.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Aug2025 04:32:54.032] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[14Aug2025 04:32:54.034] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: 38e8cd50-73be-32ee-883e-2c48fa16bba6
+[14Aug2025 04:32:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Aug2025 04:32:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Aug2025 04:32:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Aug2025 04:32:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Aug2025 04:32:54.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Aug2025 04:32:54.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Aug2025 04:32:54.708] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 04:32:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Aug2025 04:32:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Aug2025 04:32:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Aug2025 04:32:54.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Aug2025 04:32:55.178] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Aug2025 04:32:55.179] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/automatic-robot/servidor_minecraft/config/refurbished_furniture.server.toml
+[14Aug2025 04:32:55.179] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Aug2025 04:32:55.180] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Aug2025 04:32:55.180] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[14Aug2025 04:32:55.181] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
