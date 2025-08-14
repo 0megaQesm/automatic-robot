@@ -7638,3 +7638,5 @@
 [14Aug2025 00:38:23.250] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [14Aug2025 00:38:57.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/37653, l='ServerLevel[world]', x=-5873.01, y=78.00, z=-2232.20] died, message: 'Cartographer was slain by Zombie'
 [14Aug2025 00:38:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Zombie
+[14Aug2025 00:43:23.238] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:48:23.223] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
