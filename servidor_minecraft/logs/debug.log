@@ -7583,3 +7583,58 @@
 [14Aug2025 00:18:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
 [14Aug2025 00:19:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
 [14Aug2025 00:19:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:19:30.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[14Aug2025 00:20:30.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by lafizamovie
+[14Aug2025 00:21:42.019] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@50086623 into net.minecraft.network.Connection@2e1135b0
+[14Aug2025 00:21:42.711] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[14Aug2025 00:21:43.435] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[14Aug2025 00:21:43.435] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[14Aug2025 00:21:43.772] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@463ed67f into net.minecraft.network.Connection@2e1135b0
+[14Aug2025 00:21:43.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DMkingo[/127.246.161.60:53249] logged in with entity id 48521 at (-5920.475775903823, 68.0, -2247.6984591678597)
+[14Aug2025 00:21:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo joined the game
+[14Aug2025 00:22:16.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 00:22:22.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 00:22:41.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Summoned new Iron Golem]
+[14Aug2025 00:23:19.482] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:23:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:25:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:25:16.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:25:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:25:40.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:26:27.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Applied enchantment Efficiency V to OmegaQesm_'s item]
+[14Aug2025 00:26:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Applied enchantment Silk Touch to OmegaQesm_'s item]
+[14Aug2025 00:27:04.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:27:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Iron Backpack] to OmegaQesm_]
+[14Aug2025 00:27:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:27:52.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:27:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 00:28:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> nio
+[14Aug2025 00:28:18.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> ven
+[14Aug2025 00:28:19.484] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:28:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DMkingo> ando ocupado
+[14Aug2025 00:28:58.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [We Need to Go Deeper]
+[14Aug2025 00:29:02.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[14Aug2025 00:29:05.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50037, l='ServerLevel[world]', x=-711.51, y=34.88, z=-251.69] died, message: 'Villager hit the ground too hard'
+[14Aug2025 00:29:17.656] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50182, l='ServerLevel[world]', x=-741.00, y=116.00, z=-385.00] as it would cause deadlock
+[14Aug2025 00:29:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was fireballed by Blaze
+[14Aug2025 00:29:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was doomed to fall by Zombie
+[14Aug2025 00:30:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Successfully restored OmegaQesm_'s items]
+[14Aug2025 00:30:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Successfully restored OmegaQesm_'s items]
+[14Aug2025 00:30:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:30:13.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:30:21.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Gave 1 [Shield] to OmegaQesm_]
+[14Aug2025 00:30:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Not Today, Thank You]
+[14Aug2025 00:30:57.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50676, l='ServerLevel[world]', x=-753.22, y=71.31, z=-255.51] died, message: 'Villager tried to swim in lava'
+[14Aug2025 00:31:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [A Terrible Fortress]
+[14Aug2025 00:31:40.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ withered away
+[14Aug2025 00:32:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 00:32:25.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 00:32:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 00:33:02.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ tried to swim in lava
+[14Aug2025 00:33:14.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Successfully restored OmegaQesm_'s items]
+[14Aug2025 00:33:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie has made the advancement [Getting an Upgrade]
+[14Aug2025 00:33:23.225] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:33:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmegaQesm_> de eme kingo
+[14Aug2025 00:38:23.250] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 00:38:57.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/37653, l='ServerLevel[world]', x=-5873.01, y=78.00, z=-2232.20] died, message: 'Cartographer was slain by Zombie'
+[14Aug2025 00:38:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Zombie
