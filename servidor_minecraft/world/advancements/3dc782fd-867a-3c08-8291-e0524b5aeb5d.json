@@ -2905,6 +2905,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-08-14 01:11:25 +0000",
+      "minecraft:skeleton": "2025-08-14 03:12:13 +0000",
+      "minecraft:piglin": "2025-08-14 03:23:53 +0000",
+      "minecraft:magma_cube": "2025-08-14 03:13:50 +0000",
       "minecraft:wither_skeleton": "2025-08-14 00:32:33 +0000",
       "minecraft:zombie": "2025-08-13 23:12:07 +0000"
     },
@@ -3680,7 +3683,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-14 03:21:37 +0000",
       "minecraft:soul_sand_valley": "2025-08-14 00:29:09 +0000",
+      "minecraft:nether_wastes": "2025-08-14 03:24:57 +0000",
       "minecraft:basalt_deltas": "2025-08-14 00:29:02 +0000"
     },
     "done": false
@@ -4099,6 +4104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-14 03:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-14 02:44:46 +0000"
@@ -4189,6 +4200,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-14 03:14:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_minecraft:birch_planks": "2025-08-14 02:44:46 +0000"
@@ -4204,6 +4221,18 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-14 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-14 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-14 03:14:48 +0000"
     },
     "done": true
   },
@@ -4237,9 +4266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-14 03:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-14 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-14 03:17:52 +0000"
     },
     "done": true
   },

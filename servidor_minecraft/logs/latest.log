@@ -284,3 +284,44 @@
 [14Aug2025 03:10:17.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
 [14Aug2025 03:11:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
 [14Aug2025 03:11:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:14:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:14:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:14:35.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Wither Skeleton
+[14Aug2025 03:14:39.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 03:14:42.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[14Aug2025 03:14:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Spooky Scary Skeleton]
+[14Aug2025 03:14:51.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo was slain by Wither Skeleton
+[14Aug2025 03:15:00.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:15:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo was slain by Wither Skeleton
+[14Aug2025 03:15:22.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:16:38.791] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 03:16:38.862] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 508 radius, 1 samples
+[14Aug2025 03:18:41.344] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/128010, l='ServerLevel[world]', x=-727.00, y=31.00, z=-543.00] as it would cause deadlock
+[14Aug2025 03:19:44.453] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 03:19:44.493] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 366 radius, 1 samples
+[14Aug2025 03:21:44.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:21:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:21:57.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:22:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:22:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:22:15.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 03:22:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:23:25.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:23:27.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:24:47.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 03:25:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 03:25:40.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:26:12.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie fell from a high place
+[14Aug2025 03:26:43.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Hidden in the Depths]
+[14Aug2025 03:26:58.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131885, l='ServerLevel[world]', x=-5871.60, y=65.00, z=-2144.49] died, message: 'Villager was slain by Zombie'
+[14Aug2025 03:27:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ burned to death
+[14Aug2025 03:27:24.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[14Aug2025 03:27:45.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/131922, l='ServerLevel[world]', x=-5922.55, y=65.00, z=-2245.47] died, message: 'Toolsmith was slain by Zombie'
+[14Aug2025 03:27:54.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie moved too quickly! -9.7239758805581,1.8291870918577047,-1.6383157908171597
+[14Aug2025 03:27:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to lafizamovie]
+[14Aug2025 03:28:41.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
+[14Aug2025 03:28:49.620] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Aug2025 03:28:52.280] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fcea88b5: RandomSpreadSearchWorker succeeded with 4921 radius, 256 samples
+[14Aug2025 03:28:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Ol' Betsy]
+[14Aug2025 03:30:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo fell from a high place
+[14Aug2025 03:31:09.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported DMkingo to OmegaQesm_]
