@@ -155,3 +155,16 @@
 [14Aug2025 01:47:19.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Half-Century]
 [14Aug2025 01:48:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
 [14Aug2025 01:48:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:51:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[14Aug2025 01:51:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 01:51:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:51:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:52:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:56:57.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[14Aug2025 01:56:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[14Aug2025 01:57:03.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.119.90.33:38285] logged in with entity id 83017 at (-4574.287458068838, 218.0, -1359.8728359247593)
+[14Aug2025 01:57:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[14Aug2025 01:57:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:57:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:59:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:59:45.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]

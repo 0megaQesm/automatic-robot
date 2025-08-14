@@ -7735,3 +7735,26 @@
 [14Aug2025 01:48:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
 [14Aug2025 01:48:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
 [14Aug2025 01:48:29.645] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:51:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[14Aug2025 01:51:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Spectator Mode]
+[14Aug2025 01:51:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:51:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:52:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:53:29.644] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:56:20.469] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 13
+[14Aug2025 01:56:20.469] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=45, e=45}, net.minecraft.world.inventory.TransientCraftingContainer@8282f10=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@8282f10, c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@67f6b9ca=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@67f6b9ca, c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=9, e=35}}
+[14Aug2025 01:56:20.469] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@46942cae, b=9, e=35}
+[14Aug2025 01:56:57.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[14Aug2025 01:56:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[14Aug2025 01:57:00.792] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@21ec703a into net.minecraft.network.Connection@648a9fb5
+[14Aug2025 01:57:01.572] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[14Aug2025 01:57:02.468] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/config_data'
+[14Aug2025 01:57:02.468] [Server thread/DEBUG] [Framework/FRAMEWORK_CONFIGURATION]: Sending configuration task 'framework:configuration/synced_entity_data'
+[14Aug2025 01:57:03.058] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7f6c36d7 into net.minecraft.network.Connection@648a9fb5
+[14Aug2025 01:57:03.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.119.90.33:38285] logged in with entity id 83017 at (-4574.287458068838, 218.0, -1359.8728359247593)
+[14Aug2025 01:57:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[14Aug2025 01:57:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:57:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[14Aug2025 01:58:29.658] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 01:59:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[14Aug2025 01:59:45.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
